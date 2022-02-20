@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!main.py
+!source_airbyte_example
+!setup.py
+!secrets
